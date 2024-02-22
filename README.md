@@ -6,3 +6,4 @@
 - 2nd Inversion
 - 3rd Inversion
 - All above voicings in one folder
+- 16 Chord MIDI Rack - drop before an instruments, select or randomize chords, play them via 16 white keys (C2 onward)
